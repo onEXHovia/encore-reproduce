@@ -1,0 +1,8 @@
+{
+  "build/./pages/page1.js": "/build/./pages/page1.js",
+  "build/./pages/page2.js": "/build/./pages/page2.js",
+  "build/app.js": "/build/app.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors~./pages/page1~./pages/page2.js": "/build/vendors~./pages/page1~./pages/page2.js",
+  "build/vendors~app.js": "/build/vendors~app.js"
+}
